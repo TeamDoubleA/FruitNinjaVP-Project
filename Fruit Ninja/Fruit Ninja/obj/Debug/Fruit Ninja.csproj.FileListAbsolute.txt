@@ -1,0 +1,15 @@
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.csprojAssemblyReference.cache
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.ResolveComReference.cache
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit_Ninja.Form1.resources
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.GenerateResource.cache
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.CoreCompileInputs.cache
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\bin\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+C:\Users\Trendo\source\repos\Fruit Ninja - Copy\Fruit Ninja\obj\Debug\Fruit Ninja.pdb

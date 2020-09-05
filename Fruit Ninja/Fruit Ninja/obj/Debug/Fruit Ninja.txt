@@ -1,0 +1,30 @@
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\bin\Debug\Honk a Pepe.exe.config
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\bin\Debug\Honk a Pepe.exe
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\bin\Debug\Honk a Pepe.pdb
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.csprojAssemblyReference.cache
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk_a_Pepe.Form1.resources
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk_a_Pepe.Properties.Resources.resources
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.GenerateResource.cache
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.CoreCompileInputs.cache
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.exe
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.pdb
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\bin\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Honk a Pepe\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.ResolveComReference.cache
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\bin\Debug\Honk a Pepe.exe.config
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\bin\Debug\Honk a Pepe.exe
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\bin\Debug\Honk a Pepe.pdb
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\bin\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.csprojAssemblyReference.cache
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Interop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.ResolveComReference.cache
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk_a_Pepe.Form1.resources
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk_a_Pepe.Properties.Resources.resources
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.GenerateResource.cache
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.csproj.CoreCompileInputs.cache
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.exe
+C:\Users\Trendo\source\repos\Fruit Ninja\Honk a Pepe\obj\Debug\Honk a Pepe.pdb
